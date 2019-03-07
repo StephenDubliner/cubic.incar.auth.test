@@ -1,0 +1,13 @@
+/Users/pawel/RiderProjects/mycar.auth.test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/pawel/RiderProjects/mycar.auth.test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/pawel/RiderProjects/mycar.auth.test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/pawel/RiderProjects/mycar.auth.test/bin/Debug/netcoreapp2.0/mycar.auth.test.deps.json
+/Users/pawel/RiderProjects/mycar.auth.test/bin/Debug/netcoreapp2.0/mycar.auth.test.runtimeconfig.json
+/Users/pawel/RiderProjects/mycar.auth.test/bin/Debug/netcoreapp2.0/mycar.auth.test.runtimeconfig.dev.json
+/Users/pawel/RiderProjects/mycar.auth.test/bin/Debug/netcoreapp2.0/mycar.auth.test.dll
+/Users/pawel/RiderProjects/mycar.auth.test/bin/Debug/netcoreapp2.0/mycar.auth.test.pdb
+/Users/pawel/RiderProjects/mycar.auth.test/obj/Debug/netcoreapp2.0/mycar.auth.test.csproj.CoreCompileInputs.cache
+/Users/pawel/RiderProjects/mycar.auth.test/obj/Debug/netcoreapp2.0/mycar.auth.test.AssemblyInfoInputs.cache
+/Users/pawel/RiderProjects/mycar.auth.test/obj/Debug/netcoreapp2.0/mycar.auth.test.AssemblyInfo.cs
+/Users/pawel/RiderProjects/mycar.auth.test/obj/Debug/netcoreapp2.0/mycar.auth.test.dll
+/Users/pawel/RiderProjects/mycar.auth.test/obj/Debug/netcoreapp2.0/mycar.auth.test.pdb

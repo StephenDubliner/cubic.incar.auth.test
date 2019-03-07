@@ -1,0 +1,4 @@
+/Users/pawel/RiderProjects/cubic.incar.auth.test/obj/Debug/netcoreapp2.0/cubic.incar.auth.test.csprojResolveAssemblyReference.cache
+/Users/pawel/RiderProjects/cubic.incar.auth.test/obj/Debug/netcoreapp2.0/cubic.incar.auth.test.csproj.CoreCompileInputs.cache
+/Users/pawel/RiderProjects/cubic.incar.auth.test/obj/Debug/netcoreapp2.0/cubic.incar.auth.test.AssemblyInfoInputs.cache
+/Users/pawel/RiderProjects/cubic.incar.auth.test/obj/Debug/netcoreapp2.0/cubic.incar.auth.test.AssemblyInfo.cs
